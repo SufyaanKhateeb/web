@@ -1,14 +1,14 @@
 ### My first repository is awesome!
 
-I'm [Sufyaan] and here it's my first GitHub repository.
+I'm Sufyaan and this is my first GitHub repository.
 If you see this file on my project, it's because I'm learning Git.
 
 My mood:
 
-> [bored]
+> bored
 
 My favorite color:
 
-> [BLUE]
+> BLUE
 
 Thank you so much for reading! ☺
