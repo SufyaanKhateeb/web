@@ -5,10 +5,10 @@ If you see this file on my project, it's because I'm learning Git.
 
 My mood:
 
-> bored
+> BORED
 
 My favorite color:
 
 > BLUE
 
-Thank you so much for reading! ☺ hahaha
+Thank you so much for reading! ☺ hahaha :)
