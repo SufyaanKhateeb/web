@@ -11,4 +11,4 @@ My favorite color:
 
 > [BLUE]
 
-Thank you so much for reading! ☺
+Thank you so much for reading! ☺ hahaha
